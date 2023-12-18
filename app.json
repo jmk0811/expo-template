@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jmk0811.expotemplate"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,6 +33,10 @@
         "projectId": "babdde40-2ac9-4ae5-b7ad-b6c8fd45eca9"
       }
     },
-    "owner": "jmk0811"
+    "owner": "jmk0811",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/babdde40-2ac9-4ae5-b7ad-b6c8fd45eca9"
+    }
   }
 }
